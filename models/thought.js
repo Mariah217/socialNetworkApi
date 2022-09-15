@@ -1,0 +1,1 @@
+// reaction (schema only will be a subdocument in the Thought model)
