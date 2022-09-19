@@ -16,14 +16,11 @@ I created a Social Network API using the NoSQL Database to be able to handle lar
 This application uses Express.js for routing, MongoDB database and the Mongoose ODM. I also used Insomnia to show my get, post, update and delete (CRUD operations).
 
 ## Usage
+<br>
 
-Provide instructions and examples for use. Include screenshots as needed.
+![insomnia picture 1](/images/insomnia1.PNG)
+![insomnia picture 1](/images/insomnia2.PNG)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
