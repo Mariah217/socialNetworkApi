@@ -18,6 +18,10 @@ This application uses Express.js for routing, MongoDB database and the Mongoose 
 ## Usage
 <br>
 
+<a href = "https://www.youtube.com/watch?v=GUSxpahikV4&ab_channel=MariahJohnston"> Click link for YouTube video demo!</a>
+
+<br>
+
 ![insomnia picture 1](/images/insomnia1.PNG)
 ![insomnia picture 1](/images/insomnia2.PNG)
 
