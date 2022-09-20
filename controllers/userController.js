@@ -63,7 +63,7 @@ module.exports = {
     ? res.status(404).json({ message: 'No user found with that ID'})
     : res.json(user)
     )
-    .cath((err) => res.status(500).json(err));
+    .catch((err) => res.status(500).json(err));
   },
   //remove a friend
   removeFriend(req, res){

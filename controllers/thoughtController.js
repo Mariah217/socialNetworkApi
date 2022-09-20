@@ -63,7 +63,7 @@ module.exports = {
                     ? res.status(404).json({ message: 'No thought found with that ID' })
                     : res.json(thought)
             )
-            .cath((err) => res.status(500).json(err));
+            .catch((err) => res.status(500).json(err));
     },
 
     //Remove a reaction from thought
